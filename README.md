@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Vicente, and I'm currently studying Civil Engineering in Computer Science at University of Chile.<br><br>- 👀 I’m interested in Data Science, IA/ML and much more<br>- 💞️ I’m looking to collaborate on interesting projects that allows me to learn more<br>- 📫 vthielemunoz@gmail.com<br>- 😄 Pronouns: He/Him</p>
+<p align="left">My name is Vicente, and I'm currently studying Civil Engineering in Computer Science at University of Chile.<br><br>- 👀 I’m interested in Data Science, IA/ML and much more<br>- 💞️ I’m looking to collaborate on interesting projects that allows me to learn more<br>- 📫 vthielemunoz@gmail.com</p>
 
 ###
 
