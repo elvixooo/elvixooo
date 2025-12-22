@@ -37,10 +37,3 @@
 </div>
 
 ###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elvixooo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="160" alt="languages graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elvixooo&theme=github-dark-dimmed&radius=15&area=true&hide_border=false" height="200" alt="activity-graph graph"  />
-</div>
-
-###
