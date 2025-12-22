@@ -1,4 +1,4 @@
-<h1 align="left">Hi everyone 👋!</h1>
+<h1 align="left">Hi everyone ✌️</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Vicente, and I'm currently studying Civil Engineering in Computer Science at University of Chile.<br><br>- 👀 I’m interested in Data Science, IA/ML and much more<br>- 💞️ I’m looking to collaborate on interesting projects that allows me to learn more</p>
+<p align="left">My name is Vicente, and I'm currently studying Civil Engineering in Computer Science at University of Chile.<br><br>- 💞️ I’m interested in Data Science, AI, Semantic Web and much more<br>- 👀 I’m looking to collaborate on interesting projects that allows me to learn more of those topics</p>
 
 ###
 
