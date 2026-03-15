@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Vicente, and I'm currently doing my Master in Data Science at University of Chile.<br><br>- 💞️ I’m interested in AI, Data Science, Semantic Web and much more<br>- 👀 I’m looking to collaborate on interesting projects that allows me to learn more of those topics</p>
+<p align="left">My name is Vicente, and I'm currently in a Master program at University of Chile, this program is focused in Data Science.<br><br>- 💞️ I’m interested in AI, Data Science, Semantic Web and much more<br>- 👀 I’m looking to collaborate on interesting projects that allows me to learn more of those topics</p>
 
 ###
 
