@@ -2,15 +2,19 @@
 
 ###
 
-<p align="left"></p>
+<p align="left">My name is Vicente, and I'm currently in a Masters program focused in Data Science at University of Chile.</p>
 
 ###
 
-<p align="left">My name is Vicente, and I'm currently in a Master program at University of Chile, this program is focused in Data Science.<br><br>- 💞️ I’m interested in AI, Data Science, Semantic Web, Knowledge Graphs and much more<br>- 👀 I’m looking to collaborate on interesting projects that allows me to learn more of those topics</p>
+<h2 align="left">About me</h2>
 
 ###
 
-<h2 align="left">Tech Stack</h2>
+<p align="left">- 💞️ I’m interested in AI, Data Science, Semantic Web, Knowledge Graphs and much more.<br>- 👀 I’m looking to collaborate on interesting projects that allows me to learn more of those topics.<br>- Fat Yoshi is a way of life.</p>
+
+###
+
+<h2 align="left">Tech stack</h2>
 
 ###
 
