@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 💞️ I’m interested in AI, Data Science, Semantic Web, Knowledge Graphs and much more.<br>- 👀 I’m looking to collaborate on interesting projects that allows me to learn more of those topics.<br>- 🏃 I like running, but I'm no pro.<br>- Fat Yoshi is a way of life.</p>
+<p align="left">- 💞️ I’m interested in AI, Data Science, Semantic Web, Knowledge Graphs and much more.<br>- 👀 I’m looking to collaborate on interesting projects that allows me to learn more of those topics.<br>- 🏃 I like running, but I'm not a pro.<br>- Fat Yoshi is a way of life.</p>
 
 <img width="736" height="736" alt="yoshi" src="https://github.com/user-attachments/assets/97385e6d-de92-4fc6-a464-ab76aded659c" />
 
